@@ -20,4 +20,8 @@
     <Using Include="Xunit" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\TestesUnitarios.Tdd.Console\TestesUnitarios.Tdd.Console.csproj" />
+  </ItemGroup>
+
 </Project>

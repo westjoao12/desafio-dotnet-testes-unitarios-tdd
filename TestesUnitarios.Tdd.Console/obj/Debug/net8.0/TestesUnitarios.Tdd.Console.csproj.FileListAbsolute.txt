@@ -1,0 +1,15 @@
+C:\Users\WEST\3D Objects\desafio-dotnet-testes-unitarios-tdd\TestesUnitarios.Tdd.Console\bin\Debug\net8.0\TestesUnitarios.Tdd.Console.exe
+C:\Users\WEST\3D Objects\desafio-dotnet-testes-unitarios-tdd\TestesUnitarios.Tdd.Console\bin\Debug\net8.0\TestesUnitarios.Tdd.Console.deps.json
+C:\Users\WEST\3D Objects\desafio-dotnet-testes-unitarios-tdd\TestesUnitarios.Tdd.Console\bin\Debug\net8.0\TestesUnitarios.Tdd.Console.runtimeconfig.json
+C:\Users\WEST\3D Objects\desafio-dotnet-testes-unitarios-tdd\TestesUnitarios.Tdd.Console\bin\Debug\net8.0\TestesUnitarios.Tdd.Console.dll
+C:\Users\WEST\3D Objects\desafio-dotnet-testes-unitarios-tdd\TestesUnitarios.Tdd.Console\bin\Debug\net8.0\TestesUnitarios.Tdd.Console.pdb
+C:\Users\WEST\3D Objects\desafio-dotnet-testes-unitarios-tdd\TestesUnitarios.Tdd.Console\obj\Debug\net8.0\TestesUnitarios.Tdd.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WEST\3D Objects\desafio-dotnet-testes-unitarios-tdd\TestesUnitarios.Tdd.Console\obj\Debug\net8.0\TestesUnitarios.Tdd.Console.AssemblyInfoInputs.cache
+C:\Users\WEST\3D Objects\desafio-dotnet-testes-unitarios-tdd\TestesUnitarios.Tdd.Console\obj\Debug\net8.0\TestesUnitarios.Tdd.Console.AssemblyInfo.cs
+C:\Users\WEST\3D Objects\desafio-dotnet-testes-unitarios-tdd\TestesUnitarios.Tdd.Console\obj\Debug\net8.0\TestesUnitarios.Tdd.Console.csproj.CoreCompileInputs.cache
+C:\Users\WEST\3D Objects\desafio-dotnet-testes-unitarios-tdd\TestesUnitarios.Tdd.Console\obj\Debug\net8.0\TestesUnitarios.Tdd.Console.sourcelink.json
+C:\Users\WEST\3D Objects\desafio-dotnet-testes-unitarios-tdd\TestesUnitarios.Tdd.Console\obj\Debug\net8.0\TestesUnitarios.Tdd.Console.dll
+C:\Users\WEST\3D Objects\desafio-dotnet-testes-unitarios-tdd\TestesUnitarios.Tdd.Console\obj\Debug\net8.0\refint\TestesUnitarios.Tdd.Console.dll
+C:\Users\WEST\3D Objects\desafio-dotnet-testes-unitarios-tdd\TestesUnitarios.Tdd.Console\obj\Debug\net8.0\TestesUnitarios.Tdd.Console.pdb
+C:\Users\WEST\3D Objects\desafio-dotnet-testes-unitarios-tdd\TestesUnitarios.Tdd.Console\obj\Debug\net8.0\TestesUnitarios.Tdd.Console.genruntimeconfig.cache
+C:\Users\WEST\3D Objects\desafio-dotnet-testes-unitarios-tdd\TestesUnitarios.Tdd.Console\obj\Debug\net8.0\ref\TestesUnitarios.Tdd.Console.dll

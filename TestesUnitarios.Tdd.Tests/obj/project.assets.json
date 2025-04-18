@@ -1708,6 +1708,16 @@
         "build": {
           "build/net6.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "TestesUnitarios.Tdd.Console/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/TestesUnitarios.Tdd.Console.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TestesUnitarios.Tdd.Console.dll": {}
+        }
       }
     }
   },
@@ -5497,11 +5507,17 @@
         "xunit.runner.visualstudio.2.5.3.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "TestesUnitarios.Tdd.Console/1.0.0": {
+      "type": "project",
+      "path": "../TestesUnitarios.Tdd.Console/TestesUnitarios.Tdd.Console.csproj",
+      "msbuildProject": "../TestesUnitarios.Tdd.Console/TestesUnitarios.Tdd.Console.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "Microsoft.NET.Test.Sdk >= 17.8.0",
+      "TestesUnitarios.Tdd.Console >= 1.0.0",
       "coverlet.collector >= 6.0.0",
       "xunit >= 2.5.3",
       "xunit.runner.visualstudio >= 2.5.3"
@@ -5540,7 +5556,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\WEST\\3D Objects\\desafio-dotnet-testes-unitarios-tdd\\TestesUnitarios.Tdd.Console\\TestesUnitarios.Tdd.Console.csproj": {
+              "projectPath": "C:\\Users\\WEST\\3D Objects\\desafio-dotnet-testes-unitarios-tdd\\TestesUnitarios.Tdd.Console\\TestesUnitarios.Tdd.Console.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
