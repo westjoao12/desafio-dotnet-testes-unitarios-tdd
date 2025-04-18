@@ -2,7 +2,12 @@
 
 Operacao operacao = new Operacao();
 
-//Console.WriteLine($"{operacao.TabuadaMultiplicar(2)}");
+
 List<int> tb = operacao.TabelaMultiplicar(2);
 
+
+Console.WriteLine("Tabuada:\n");
+Console.WriteLine($"{operacao.ExibirTabuadaMultiplicacao(2)}");
+
+Console.WriteLine("\nResultados da multiplicação:\n");
 tb.ForEach(x => Console.WriteLine($"{x}"));

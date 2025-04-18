@@ -16,7 +16,7 @@ namespace TestesUnitarios.Tdd.Console{
             return Tabela;
         }
 
-        public string TabuadaMultiplicar(int valor){
+        public string ExibirTabuadaMultiplicacao(int valor){
   
             for (int i = 1; i <= 12; i++)
             {

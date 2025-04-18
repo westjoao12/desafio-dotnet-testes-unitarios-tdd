@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestesUnitarios.Tdd.Console")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28ba8ec7677aebe4dcb06664968273430dab1ebd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+946ff73c391c3ea196b9841c2374057cc9b1f31b")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestesUnitarios.Tdd.Console")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestesUnitarios.Tdd.Console")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
